@@ -74,6 +74,6 @@
 
      }else{
         mensagemEnvio.className = "falha"
-mensagemEnvio.textContent = erros.join(" ")
+mensagemEnvio.textContent = erros.join("")
      }
      })

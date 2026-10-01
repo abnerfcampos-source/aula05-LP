@@ -59,12 +59,12 @@ textarea{
     display: none;
 }
 
-#mensagem.sucesso {
+#mensagem-envio.sucesso {
     background-color: #ccc;
     color: greenyellow;
     display: block;
 }
-#mensagem.falha{
+#mensagem-envio.falha{
      background-color: #ccc;
     color: rgb(255, 47, 47);
     display: block;
